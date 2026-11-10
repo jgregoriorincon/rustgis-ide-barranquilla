@@ -25,8 +25,6 @@ The plugin has a ribbon tab of its own, **IDE Barranquilla**:
   police stations, citizen service offices) and **Transmetro** (stations, routes).
 - **Basemap** puts one of the Alcaldía's basemaps under the map's layers: Vector, Dark and
   Tourism. A map away from Barranquilla goes there.
-- **Update to View** adds the catalogue's layers already on the map again in the map view. A
-  layer holds the features of the view it was added in: moving the map doesn't fetch more.
 
 ## Install
 
