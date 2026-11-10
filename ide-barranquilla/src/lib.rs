@@ -5,7 +5,7 @@
 //! with the same reader as the live catalogue) as a tree. A plugin keeps nothing between calls,
 //! so every click reads the list again: the index costs little, while the live catalogue doesn't
 //! fit in a command's fuel, and answers only clients whose User-Agent starts with `RustGIS/`.
-//! The repository's CI reads it instead: it rebuilds the index each week and proposes it when the
+//! The repository's CI reads it instead: it rebuilds the index each month and proposes it when the
 //! catalogue changed (`.github/workflows/refresh-index.yml`).
 //!
 //! The index holds the Alcaldía's own data, as its geoviewer shows it ([`geobaq`]): not the national
